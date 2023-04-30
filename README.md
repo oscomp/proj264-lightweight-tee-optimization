@@ -28,6 +28,10 @@
 
 较难
 
+## License
+
+Apache 2.0(https://www.apache.org/licenses/LICENSE-2.0.html)
+
 ### 预期目标
 
 1.实现一种新型轻量的TEE架构
